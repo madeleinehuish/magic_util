@@ -1,0 +1,16 @@
+{
+  "name": "MagicTestFile",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Madeleine Huish <madeleinehuish@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "mtgsdk": "^0.4.2"
+  }
+}
